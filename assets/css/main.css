@@ -1908,7 +1908,8 @@ button,
     line-height: 2em;
     opacity: 0.325;
     position: absolute;
-    right: 0;
+	left: 0;
+    right: auto;
     text-align: center;
     top: 0;
     width: 2em; }
